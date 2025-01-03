@@ -1,2 +1,7 @@
 # Webflow
-The **Spring Web Flow Samples** repository offers example projects demonstrating Spring Web Flow features like flow definitions, state management, data binding, and Spring MVC integration. It’s a practical guide for developers, with annotated code, configs, and documentation to help learn and implement Spring Web Flow effectively.
+Spring Web Flow Samples
+=======================
+
+This is the official samples repository for the [Spring Web Flow](https://github.com/SpringSource/spring-webflow) project.
+
+From a sample sub-directory, use `mvn jetty:run` to run a server, or `mvn package` to build a war.
